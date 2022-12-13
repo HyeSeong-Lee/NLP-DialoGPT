@@ -2,7 +2,7 @@
 
 실행 방법
 
-1. 해당 링크로 들어가 폴더를 본인의 드라이브로 복사하고,
+1. 아래 링크로 들어가 폴더를 본인의 드라이브로 복사하고,
    
    https://drive.google.com/drive/folders/1K8jOR2pdIJ6EUBwesoR3zYK_FlIYk8EY?usp=sharing
 2. Mount 코드를 돌린 후
